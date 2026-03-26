@@ -8,14 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@prisma/client": "^7.2.0",
+    "@tanstack/react-form": "^1.28.0",
     "@VoxChain/auth": "*",
     "@VoxChain/env": "*",
     "@VoxChain/ui": "*",
-    "@prisma/client": "^7.2.0",
-    "@tanstack/react-form": "^1.28.0",
     "babel-plugin-react-compiler": "^1.0.0",
     "better-auth": "1.5.5",
     "dotenv": "^17.2.2",
+    "ethers": "^6.16.0",
     "lucide-react": "^0.546.0",
     "next": "^16.2.0",
     "next-themes": "^0.4.6",
@@ -25,11 +26,11 @@
     "zod": "^4.1.13"
   },
   "devDependencies": {
-    "@VoxChain/config": "*",
     "@tailwindcss/postcss": "^4.1.18",
     "@types/node": "^20",
     "@types/react": "^19.2.10",
     "@types/react-dom": "^19.2.3",
+    "@VoxChain/config": "*",
     "tailwindcss": "^4.1.18",
     "typescript": "^5"
   }
