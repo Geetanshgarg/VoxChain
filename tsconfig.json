@@ -1,0 +1,3 @@
+{
+  "extends": "@VoxChain/config/tsconfig.base.json"
+}
