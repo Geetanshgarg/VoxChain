@@ -1,8 +1,21 @@
 # VoxChain
 
+<p align="center">
+  <img src="assets/Screenshot.png" alt="VoxChain Dashboard" width="800">
+</p>
+
 This project was created with [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack), a modern TypeScript stack that combines Next.js, Self, and more.
 
-## Features
+## 📺 Live Demo
+
+<p align="center">
+  <video src="assets/live demo.mp4" controls width="100%"></video>
+</p>
+
+[View Live Site](https://voxchain.demo) | [Watch Implementation Video](https://youtube.com/link)
+
+## ✨ Features
+
 
 - **TypeScript** - For type safety and improved developer experience
 - **Next.js** - Full-stack React framework
