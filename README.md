@@ -12,7 +12,6 @@ This project was created with [Better-T-Stack](https://github.com/AmanVarshney01
   <video src="assets/live demo.mp4" controls width="100%"></video>
 </p>
 
-[View Live Site](https://voxchain.demo) | [Watch Implementation Video](https://youtube.com/link)
 
 ## ✨ Features
 
